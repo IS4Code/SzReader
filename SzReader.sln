@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzReader", "SzReader.csproj", "{B3A8FB44-1C11-489D-A84C-B3C24D99CA9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A8FB44-1C11-489D-A84C-B3C24D99CA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A8FB44-1C11-489D-A84C-B3C24D99CA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A8FB44-1C11-489D-A84C-B3C24D99CA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A8FB44-1C11-489D-A84C-B3C24D99CA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E460F002-D002-44CC-9E71-BC8676D67E5B}
+	EndGlobalSection
+EndGlobal
