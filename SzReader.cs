@@ -227,6 +227,12 @@ namespace IS4.Tools
 
             public bool IsSplitAfter => false;
 
+            public bool IsSolid => false;
+
+            public int VolumeIndexFirst => 0;
+
+            public int VolumeIndexLast => 0;
+
             public DateTime? LastAccessedTime => null;
 
             public DateTime? LastModifiedTime => null;
